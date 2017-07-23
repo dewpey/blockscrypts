@@ -1,0 +1,12 @@
+C:\Distributed\BlockScrypts\BlockScrypts\bin\Debug\BlockScrypts.exe.config
+C:\Distributed\BlockScrypts\BlockScrypts\bin\Debug\BlockScrypts.exe
+C:\Distributed\BlockScrypts\BlockScrypts\bin\Debug\BlockScrypts.pdb
+C:\Distributed\BlockScrypts\BlockScrypts\obj\Debug\BlockScrypts.csprojResolveAssemblyReference.cache
+C:\Distributed\BlockScrypts\BlockScrypts\obj\Debug\BlockScrypts.Form1.resources
+C:\Distributed\BlockScrypts\BlockScrypts\obj\Debug\BlockScrypts.Properties.Resources.resources
+C:\Distributed\BlockScrypts\BlockScrypts\obj\Debug\BlockScrypts.csproj.GenerateResource.Cache
+C:\Distributed\BlockScrypts\BlockScrypts\obj\Debug\BlockScrypts.exe
+C:\Distributed\BlockScrypts\BlockScrypts\obj\Debug\BlockScrypts.pdb
+C:\Distributed\BlockScrypts\BlockScrypts\bin\Debug\Newtonsoft.Json.dll
+C:\Distributed\BlockScrypts\BlockScrypts\bin\Debug\Newtonsoft.Json.xml
+C:\Distributed\BlockScrypts\BlockScrypts\obj\Debug\BlockScrypts.Form2.resources
